@@ -1,0 +1,2 @@
+module GomeHelper
+end
